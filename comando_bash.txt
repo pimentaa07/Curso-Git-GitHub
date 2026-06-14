@@ -1,0 +1,5 @@
+COMANDOS GIT:
+-ls (listar diretorios)
+-cd (entrar no diretorio)
+-pwd (caminho absoluto de onde estou)
+- mkdir (cria pasta)
