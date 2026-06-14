@@ -7,6 +7,21 @@ COMANDOS GIT:
 -git init . (CRIAR O GIT)
 -rm -rf .git/ (apaga  o git)
 -git status
--git add
+-git add nome_arquivo
 -git commit -m "" (descrição do save)
 -git config --global user.email "gustavo.l.pimenta@ufv.br"
+-git add nome arquivo(atualizar)
+-git log (ver todos os saves)
+-git add . (atualiza tudo do arquivos)
+
+## FLUXO DE TRABALHO
+
+- criar o diretório do projeto
+- iniciar o git dentro do diretório criado(git init.)
+- edita ou cria arquivos
+- git status
+- git add nome_arquivo
+- git status
+- git commit -m "mensagem"
+- git status
+- volta para o passo 3
