@@ -3,3 +3,10 @@ COMANDOS GIT:
 -cd (entrar no diretorio)
 -pwd (caminho absoluto de onde estou)
 - mkdir (cria pasta)
+- cat (mostrar conteúdo do arquivo)
+-git init . (CRIAR O GIT)
+-rm -rf .git/ (apaga  o git)
+-git status
+-git add
+-git commit -m "" (descrição do save)
+-git config --global user.email "gustavo.l.pimenta@ufv.br"
