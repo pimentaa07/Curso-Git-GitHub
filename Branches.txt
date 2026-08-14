@@ -1,0 +1,3 @@
+4. Entendendo branches (ramificações)
+
+Branches são um dos recursos mais poderosos do Git. Pense nelas como "linhas do tempo paralelas" do seu projeto: a branch principal (geralmente chamada de main ou master) contém a versão estável do código, enquanto novas branches podem ser criadas para desenvolver funcionalidades, corrigir bugs ou testar ideias sem afetar o projeto principal. Quando o trabalho em uma branch está pronto, ela pode ser unida (merge) de volta à branch principal. Esse fluxo evita que erros ou código incompleto quebrem a versão que está em produção.

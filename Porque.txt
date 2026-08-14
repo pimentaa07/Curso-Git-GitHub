@@ -1,0 +1,3 @@
+2. Por que usar controle de versão?
+
+Trabalhar sem controle de versão é como escrever um documento importante sem nunca poder desfazer um erro grave. Com o Git, cada commit funciona como um "ponto de salvamento" no seu projeto: se algo der errado, é possível voltar para uma versão anterior sem perder o trabalho feito. Além disso, o controle de versão permite que vários desenvolvedores trabalhem no mesmo projeto ao mesmo tempo, cada um em sua própria branch, sem que as alterações de um atrapalhem o trabalho do outro — e depois tudo pode ser unificado de forma organizada.

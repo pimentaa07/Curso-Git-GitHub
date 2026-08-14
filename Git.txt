@@ -1,0 +1,3 @@
+1. O que é o Git?
+
+O Git é um sistema de controle de versão distribuído, criado por Linus Torvalds em 2005. Ele permite que desenvolvedores acompanhem todas as mudanças feitas em um projeto ao longo do tempo, guardando um histórico completo de quem alterou o quê e quando. Diferente de simplesmente salvar cópias de arquivos com nomes como "projeto_final_v2", o Git registra cada alteração de forma organizada, permitindo voltar a qualquer ponto do histórico, comparar versões e trabalhar em paralelo com outras pessoas sem perder o controle do que foi feito.

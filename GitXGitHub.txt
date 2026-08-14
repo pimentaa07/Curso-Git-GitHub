@@ -1,0 +1,3 @@
+3. Git vs GitHub: qual a diferença?
+
+Uma confusão comum entre iniciantes é achar que Git e GitHub são a mesma coisa. O Git é a ferramenta que roda localmente no seu computador e cuida do versionamento dos arquivos. Já o GitHub é uma plataforma online que hospeda repositórios Git na nuvem, permitindo compartilhar código, colaborar com outras pessoas, abrir Pull Requests e gerenciar projetos de forma visual. Existem outras plataformas parecidas, como GitLab e Bitbucket, mas todas usam o Git como base — o GitHub é apenas o serviço mais popular para hospedar esses repositórios.
