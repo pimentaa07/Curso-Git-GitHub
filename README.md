@@ -1,2 +1,2 @@
-\# Curso TMW Git \& GitHUb
+\#Curso TMW Git \& GitHub
 
