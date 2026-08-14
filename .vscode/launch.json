@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gusta/Desktop/curso_git_2026/Códigos",
-      "program": "c:/Users/gusta/Desktop/curso_git_2026/Códigos/build/Debug/outDebug",
+      "cwd": "c:/Users/gusta/Desktop/curso_git_2026/codigos",
+      "program": "c:/Users/gusta/Desktop/curso_git_2026/codigos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
