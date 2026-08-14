@@ -10,9 +10,17 @@ COMANDOS GIT:
 -git add nome_arquivo
 -git commit -m "" (descrição do save)
 -git config --global user.email "gustavo.l.pimenta@ufv.br"
--git add nome arquivo(atualizar)
+-git add nome_arquivo(atualizar)
 -git log (ver todos os saves)
 -git add . (atualiza tudo do arquivos)
+-git diff nome_arquivo (mostra oque foi alterado antes do save)
+-caso trave aperte Q
+-git reset nome_arquivo (apaga o commit feito)
+-git checkout -b nome_branche (criar nova branch e tp pra ela)
+-git checkout nome_branch(tp outra branch)
+-git branch (mostrar branches)
+-git merge nome_branch(traz as alterações da branch)
+-git branch -D nome_branch(deletar branch)
 
 ## FLUXO DE TRABALHO
 
