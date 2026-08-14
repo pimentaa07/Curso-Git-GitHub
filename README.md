@@ -6,7 +6,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 
 
-Principais comandos bash:
+## Principais comandos bash:
 
 -git init . (CRIAR O GIT)  
 
